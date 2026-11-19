@@ -2,7 +2,7 @@
 
 <p align="center">
   Hey, I'm <code>Mahesh</code>, an engineering <code>freshman</code>. Learning and improving step-by-step. <br />
-  Currently diving into <b>Data Structures & Algorithms</b> using C++, alongside basic <b>Web Development</b>.
+  Currently diving into <b>data structures & algorithms</b> using C++, alongside basic <b>web dev</b> stack.
 </p>
 
 <br />
@@ -25,17 +25,19 @@
   </a>
 </p>
 
-
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/RenSyntax" target="_blank">
+  <a href="https://www.linkedin.com/in/kikyoito" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-121011?style=for-the-badge&logo=microstrategy&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/RenSyntax" target="_blank">
-    <img src="https://img.shields.io/badge/twitter/x-%23121011.svg?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="Twitter/X"/>
-  </a>
-  <a href="https://leetcode.com/u/RenSyntax" target="_blank">
+  <a href="https://leetcode.com/u/kikyoito" target="_blank">
     <img src="https://img.shields.io/badge/leetcode-%23121011.svg?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="https://bsky.app/profile/kikyoito.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-121011?style=for-the-badge&logo=bluesky&logoColor=0285FF" alt="Bluesky"/>
+  </a>
+  <a href="https://dev.to/kikyoito" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-121011?style=for-the-badge&logo=devdotto&logoColor=ffffff" alt="Dev.to"/>
   </a>
 </p>
